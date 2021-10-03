@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/morpheus/CLionProjects/untitled/ListaSequencial.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+strings.h
+-
+ListaSequencial.h
+/home/morpheus/CLionProjects/untitled/ListaSequencial.h
+
+/home/morpheus/CLionProjects/untitled/ListaSequencial.h
+
